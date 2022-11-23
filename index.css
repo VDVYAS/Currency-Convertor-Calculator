@@ -1,0 +1,89 @@
+body {
+    background-color: skyblue;
+}
+
+.main {
+    background-color: pink;
+    margin: 100px auto;
+    width: 400px;
+    height: 250px;
+}
+
+select {
+    background-color: aquamarine;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+}
+
+select:hover {
+    background-color: rgb(103, 234, 190);
+}
+
+.from {
+    margin: 10px 5px 5px 5px;
+    width: 250px;
+    height: 18px;
+    padding: 7px;
+}
+
+.To {
+    margin: 5px 5px 10px 5px;
+    width: 250px;
+    height: 18px;
+    padding: 7px;
+}
+
+#currency-two {
+    margin-left: 20px;
+}
+
+.amount {
+    margin: 5px 5px 10px 5px;
+    width: 250px;
+    height: 20px;
+    padding: 7px;
+}
+
+.cal {
+    margin: 5px 5px 10px 5px;
+    width: 250px;
+    height: 18px;
+    padding: 7px;
+}
+
+.btn {
+    background-color: rgb(45, 162, 45);
+    color: white;
+    border-color: rgb(2, 101, 2);
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(6, 101, 6);
+}
+
+.ans {
+    width: 271px;
+    margin: 10px auto 5px auto;
+}
+
+#Ans-one {
+    margin: 10px auto 10px auto;
+    width: 370px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#Ans-second {
+    margin: 10px auto 10px auto;
+    width: 370px;
+    height: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+input {
+    border-radius: 5px;
+}
